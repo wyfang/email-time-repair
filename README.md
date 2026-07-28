@@ -5,7 +5,7 @@ mail exports. It restores message dates from `X-MailStore-Date`, handles
 legacy Chinese headers, and writes categorized MBOX files ready to import.
 
 一个在 macOS 本地运行的 Thunderbird 邮件日期修复工具。适用于邮件日期被错误
-显示为 2101 年等未来时间、导致正常邮件长期排在后面的情况。
+显示为比如当下时间，或者 2101 年等未来时间、导致正常邮件长期排在前面的情况。
 
 > The original mail export is never modified. Back it up before processing
 > and verify the results before deleting anything.
@@ -25,7 +25,7 @@ legacy Chinese headers, and writes categorized MBOX files ready to import.
 - macOS
 - Thunderbird
 - Python 3（当前版本的 macOS 通常已提供 `/usr/bin/python3`）
-- 推荐安装 Thunderbird 扩展
+- 安装 Thunderbird 扩展
   [ImportExportTools NG](https://addons.thunderbird.net/thunderbird/addon/importexporttools-ng/)
 
 ## 下载与首次运行
