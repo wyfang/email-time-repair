@@ -51,10 +51,6 @@ chmod +x "/你的路径/Email Time Repair.command"
 
 请先备份原始邮件，并在删除任何内容前核对数量、日期、主题与附件。公开报告问题时不要提交真实邮件、地址、正文或附件。
 
-## 许可
+## 版权说明
 
-[MIT License](./LICENSE)
-
-项目代码依据 MIT License 提供；第三方依赖继续遵循各自许可证。
-
-完整归属与适用范围见 [NOTICE](./NOTICE) 与 [LICENSE_SCOPE.md](./LICENSE_SCOPE.md)。
+原创代码依据 [MIT License](./LICENSE) 发布。个人数据和素材不在许可范围内。
